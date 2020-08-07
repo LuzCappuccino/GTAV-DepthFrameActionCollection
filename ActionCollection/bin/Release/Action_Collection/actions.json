@@ -1,0 +1,18 @@
+{
+    "WORLD_HUMAN_DRINKING": {
+        "duration": 15000,
+        "sample_rate": 1000
+    },
+    "WORLD_HUMAN_CHEERING": {
+        "duration": 15000,
+        "sample_rate": 1000
+    },
+    "WORLD_HUMAN_STAND_MOBILE": {
+        "duration": 15000,
+        "sample_rate": 1000
+    },
+    "WORLD_HUMAN_TOURIST_MOBILE": {
+        "duration": 15000,
+        "sample_rate": 1000
+    }
+}
