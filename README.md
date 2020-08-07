@@ -1,4 +1,4 @@
-Action Depth Frame Collection
+Depth Frame Action Collection
 =============================
 *A plugin for FrandTheft Auto V that captures game depth frames as characters perform certain actions*
 
