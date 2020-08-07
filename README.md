@@ -2,7 +2,7 @@ Action Depth Frame Collection
 =============================
 *A plugin for FrandTheft Auto V that captures game depth frames as characters perform certain actions*
 
-<img src="/Samples/clap_rgp.gif">
+<img src="/Samples/clap_rgb.gif">
 <img src="/Samples/clap_depth.gif">
 
 ## Requirements
@@ -97,4 +97,5 @@ I also used to the following in game graphics settings, which seemingly provided
 * FXAA: off
 * MSAA: off 
 * Vsync: off
+
 Open issues in the [GTA Vision Export](https://github.com/umautobots/GTAVisionExport) show that that these settings must be as follows in order for that library to work, so play with these settings at your own risk. 
